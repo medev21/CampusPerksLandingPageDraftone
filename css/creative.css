@@ -212,7 +212,7 @@ header .header-content .header-content-inner p {
 }
 
 @media(min-width:768px) {
-    header {
+    header, #about, #services, #contact {
         min-height: 100%;
     }
 
