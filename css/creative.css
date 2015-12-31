@@ -478,3 +478,14 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+/*added by admin*/
+
+.stage-img{
+  height: 100px;
+  width: 100px;
+}
+
+.getstarted-container{
+  margin-top: 20px;
+}
